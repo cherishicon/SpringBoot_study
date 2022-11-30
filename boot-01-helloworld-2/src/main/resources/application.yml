@@ -1,0 +1,34 @@
+person:
+  userName: "zhangsan \n lisi"
+  boss: true
+  birth: 1999/8/19
+  age: 23
+#  interests: [Singing, Dancing, Rap, basketball]
+  interests:
+    - Singing
+    - Dancing
+    - Rap
+    - basketball
+  animal: [cat, dog, pig]
+  score:
+    politics: 70
+    English: 75
+    Math: 140
+    408: 120
+  salarys:
+    - 9999.98
+    - 9999.99
+  pet:
+    name: cyn
+    weight: 114514
+  allPets:
+    sick:
+      - {name: syw,weight: 99.99}
+      - name: ly
+        weight: 88.88
+      - name: ljh
+        weight: 999999
+    health:
+      - {name: yyf, weight: 50}
+      - {name: fzc, weight: 60}
+
